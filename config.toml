@@ -1,0 +1,4 @@
+baseURL = "https://englishpoemdui.vercel.app"
+languageCode = "en-us"
+title = "About Poems English"
+theme = "hugo-theme-minos"
